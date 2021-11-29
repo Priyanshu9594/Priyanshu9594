@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priyanshu9594
+- 👋 Hi, I’m Priyanshu
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on ...
